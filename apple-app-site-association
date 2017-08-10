@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "GR7H762DHA.com.arthit.Universal-Links",
-				"paths": [ "/test/*"]
+				"paths": [ "*"]
 			}
 		]
 	}
